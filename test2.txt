@@ -1,2 +1,8 @@
 測試
 測試2
+<<<<<<< HEAD
+test2 更新
+rebase測試
+=======
+test2 更新
+>>>>>>> 92a40ca (test2 update)
