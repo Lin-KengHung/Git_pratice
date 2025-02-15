@@ -10,3 +10,4 @@ rebase 測試4
 rebase 測試5
 
 pick
+reword
