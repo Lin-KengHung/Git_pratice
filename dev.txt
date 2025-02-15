@@ -8,3 +8,14 @@ rebase測試2
 rebase 測試3
 rebase 測試4
 rebase 測試5
+# 我在edit 修改了一些東西
+pick
+reword
+edit
+squash
+fixup
+next
+
+在測試一次
+edit #編輯看看
+edit2
